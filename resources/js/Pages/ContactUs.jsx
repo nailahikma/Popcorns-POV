@@ -20,7 +20,7 @@ function ContactUs({ user }) {
           <div className="bg-gray-900 p-10 rounded-box hover:scale-105 shadow-lg shadow-merah ">
             <i className="fa-solid fa-envelope text-biru text-xl bg-merah rounded-full px-5 py-4 hover:scale-125"></i>
             <h3 className='font-semibold text-white text-2xl my-3'>Our Email</h3>
-            <p className='font-light text-sm'><span className='hover:underline hover:cursor-zoom-out'>nailahikma1985@gmail.com</span> Interactively grow backend ideas for cross-platform models.</p>
+            <p className='font-light text-sm'><span className='hover:underline hover:cursor-zoom-out'>youremail@gmail.com</span> Interactively grow backend ideas for cross-platform models.</p>
           </div>
           
           <div className="bg-gray-900 p-10 rounded-box hover:scale-105 shadow-lg shadow-merah">
@@ -32,7 +32,7 @@ function ContactUs({ user }) {
           <div className="bg-gray-900 p-10 rounded-box hover:scale-105 shadow-lg shadow-merah">
             <i class="fa-solid fa-location-dot text-biru text-xl bg-merah rounded-full px-5 py-3 hover:scale-125"></i>
             <h3 className='font-semibold text-2xl mt-5 mb-3'>Location</h3>
-            <p className='font-light text-sm'>Jln. Kemuning 4B No.40, Pasar Minggu, <br />Jakarta Selatan</p>
+            <p className='font-light text-sm'>Jln. Ahmad Yani, <br />Indonesia</p>
           </div>
           
         </div>
